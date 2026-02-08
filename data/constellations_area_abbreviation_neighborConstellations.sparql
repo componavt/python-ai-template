@@ -1,0 +1,9 @@
+# Запрос для извлечения данных о созвездиях и их свойствах
+SELECT ?constellation ?constellationLabel ?area ?abbreviation ?neighborConstellations WHERE {
+  ?constellation wdt:P31 wd:Q8928.   # экземпляры созвездия
+  OPTIONAL { ?constellation wdt:P2046 ?area. }   # площадь созвездия
+  OPTIONAL { ?constellation wdt:P1813 ?abbreviation. }   # сокращение созвездия
+  OPTIONAL { ?constellation wdt:P47 ?neighborConstellations. }   # соседние созвездия
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
+}
+LIMIT 10000

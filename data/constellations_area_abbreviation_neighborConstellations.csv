@@ -1,0 +1,528 @@
+constellation,constellationLabel,area,abbreviation,neighborConstellations
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,http://www.wikidata.org/entity/Q8675
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,http://www.wikidata.org/entity/Q8842
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,http://www.wikidata.org/entity/Q8910
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,http://www.wikidata.org/entity/Q8918
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,http://www.wikidata.org/entity/Q9285
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,http://www.wikidata.org/entity/Q10406
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,http://www.wikidata.org/entity/Q10448
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,http://www.wikidata.org/entity/Q10452
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,http://www.wikidata.org/entity/Q8667
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,http://www.wikidata.org/entity/Q8832
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,http://www.wikidata.org/entity/Q8918
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,http://www.wikidata.org/entity/Q8921
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,http://www.wikidata.org/entity/Q10448
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,http://www.wikidata.org/entity/Q10468
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,http://www.wikidata.org/entity/Q10478
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,http://www.wikidata.org/entity/Q10484
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,http://www.wikidata.org/entity/Q8839
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,http://www.wikidata.org/entity/Q8864
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,http://www.wikidata.org/entity/Q9256
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,http://www.wikidata.org/entity/Q10565
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,http://www.wikidata.org/entity/Q10576
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,http://www.wikidata.org/entity/Q10584
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,http://www.wikidata.org/entity/Q8675
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,http://www.wikidata.org/entity/Q8918
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,http://www.wikidata.org/entity/Q10443
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,http://www.wikidata.org/entity/Q10464
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,http://www.wikidata.org/entity/Q10468
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,http://www.wikidata.org/entity/Q10476
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,http://www.wikidata.org/entity/Q10478
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,http://www.wikidata.org/entity/Q10511
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,http://www.wikidata.org/entity/Q9289
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,http://www.wikidata.org/entity/Q10416
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,http://www.wikidata.org/entity/Q10437
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,http://www.wikidata.org/entity/Q10486
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,http://www.wikidata.org/entity/Q10488
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,http://www.wikidata.org/entity/Q10498
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,http://www.wikidata.org/entity/Q10574
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,http://www.wikidata.org/entity/Q8679
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,http://www.wikidata.org/entity/Q8913
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,http://www.wikidata.org/entity/Q9286
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,http://www.wikidata.org/entity/Q10433
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,http://www.wikidata.org/entity/Q10570
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,http://www.wikidata.org/entity/Q10576
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,http://www.wikidata.org/entity/Q10584
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,http://www.wikidata.org/entity/Q8667
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,http://www.wikidata.org/entity/Q8853
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,http://www.wikidata.org/entity/Q8910
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,http://www.wikidata.org/entity/Q9282
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,http://www.wikidata.org/entity/Q9285
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,http://www.wikidata.org/entity/Q10517
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,http://www.wikidata.org/entity/Q10580
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,http://www.wikidata.org/entity/Q10435
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,http://www.wikidata.org/entity/Q10470
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,http://www.wikidata.org/entity/Q10481
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,http://www.wikidata.org/entity/Q10508
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,http://www.wikidata.org/entity/Q10521
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,http://www.wikidata.org/entity/Q10542
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,http://www.wikidata.org/entity/Q10571
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,http://www.wikidata.org/entity/Q10580
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,http://www.wikidata.org/entity/Q8842
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,http://www.wikidata.org/entity/Q8849
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,http://www.wikidata.org/entity/Q8918
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,http://www.wikidata.org/entity/Q9282
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,http://www.wikidata.org/entity/Q9285
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,http://www.wikidata.org/entity/Q10403
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,http://www.wikidata.org/entity/Q10443
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,http://www.wikidata.org/entity/Q10525
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q8860,Орион,594,Ori,http://www.wikidata.org/entity/Q8923
+http://www.wikidata.org/entity/Q8860,Орион,594,Ori,http://www.wikidata.org/entity/Q10428
+http://www.wikidata.org/entity/Q8860,Орион,594,Ori,http://www.wikidata.org/entity/Q10433
+http://www.wikidata.org/entity/Q8860,Орион,594,Ori,http://www.wikidata.org/entity/Q10446
+http://www.wikidata.org/entity/Q8860,Орион,594,Ori,http://www.wikidata.org/entity/Q10570
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,http://www.wikidata.org/entity/Q8679
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,http://www.wikidata.org/entity/Q8921
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,http://www.wikidata.org/entity/Q9256
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,http://www.wikidata.org/entity/Q9302
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,http://www.wikidata.org/entity/Q10430
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,http://www.wikidata.org/entity/Q10438
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,http://www.wikidata.org/entity/Q10519
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,http://www.wikidata.org/entity/Q10576
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,http://www.wikidata.org/entity/Q8866
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,http://www.wikidata.org/entity/Q8906
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,http://www.wikidata.org/entity/Q9253
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,http://www.wikidata.org/entity/Q10413
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,http://www.wikidata.org/entity/Q10571
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,http://www.wikidata.org/entity/Q10580
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,http://www.wikidata.org/entity/Q10582
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,http://www.wikidata.org/entity/Q8865
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,http://www.wikidata.org/entity/Q8906
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,http://www.wikidata.org/entity/Q8910
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,http://www.wikidata.org/entity/Q10413
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,http://www.wikidata.org/entity/Q10450
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,http://www.wikidata.org/entity/Q10492
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,http://www.wikidata.org/entity/Q10529
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,http://www.wikidata.org/entity/Q10535
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,http://www.wikidata.org/entity/Q10546
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,http://www.wikidata.org/entity/Q10586
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,http://www.wikidata.org/entity/Q8865
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,http://www.wikidata.org/entity/Q8866
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,http://www.wikidata.org/entity/Q8910
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,http://www.wikidata.org/entity/Q10448
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,http://www.wikidata.org/entity/Q10580
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,http://www.wikidata.org/entity/Q10586
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,http://www.wikidata.org/entity/Q8667
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,http://www.wikidata.org/entity/Q8842
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,http://www.wikidata.org/entity/Q8866
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,http://www.wikidata.org/entity/Q8906
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,http://www.wikidata.org/entity/Q10406
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,http://www.wikidata.org/entity/Q10448
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,http://www.wikidata.org/entity/Q10529
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,http://www.wikidata.org/entity/Q10580
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,http://www.wikidata.org/entity/Q10586
+http://www.wikidata.org/entity/Q8913,Печь,397.5,For,http://www.wikidata.org/entity/Q8839
+http://www.wikidata.org/entity/Q8913,Печь,397.5,For,http://www.wikidata.org/entity/Q9286
+http://www.wikidata.org/entity/Q8913,Печь,397.5,For,http://www.wikidata.org/entity/Q10433
+http://www.wikidata.org/entity/Q8913,Печь,397.5,For,http://www.wikidata.org/entity/Q10441
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,http://www.wikidata.org/entity/Q8667
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,http://www.wikidata.org/entity/Q8675
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,http://www.wikidata.org/entity/Q8832
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,http://www.wikidata.org/entity/Q8853
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,http://www.wikidata.org/entity/Q9285
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,http://www.wikidata.org/entity/Q10403
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,http://www.wikidata.org/entity/Q10443
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,http://www.wikidata.org/entity/Q10452
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,http://www.wikidata.org/entity/Q8675
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,http://www.wikidata.org/entity/Q8864
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,http://www.wikidata.org/entity/Q10430
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,http://www.wikidata.org/entity/Q10468
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,http://www.wikidata.org/entity/Q10484
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,http://www.wikidata.org/entity/Q10519
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,http://www.wikidata.org/entity/Q8849
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,http://www.wikidata.org/entity/Q8860
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,http://www.wikidata.org/entity/Q9305
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,http://www.wikidata.org/entity/Q10428
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,http://www.wikidata.org/entity/Q10443
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,http://www.wikidata.org/entity/Q10476
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,http://www.wikidata.org/entity/Q10570
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,http://www.wikidata.org/entity/Q10425
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,http://www.wikidata.org/entity/Q10428
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,http://www.wikidata.org/entity/Q10470
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,http://www.wikidata.org/entity/Q10473
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,http://www.wikidata.org/entity/Q10486
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,http://www.wikidata.org/entity/Q10521
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,http://www.wikidata.org/entity/Q10538
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,http://www.wikidata.org/entity/Q8865
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,http://www.wikidata.org/entity/Q10413
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,http://www.wikidata.org/entity/Q10422
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,http://www.wikidata.org/entity/Q10506
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,http://www.wikidata.org/entity/Q10515
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,http://www.wikidata.org/entity/Q10546
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,http://www.wikidata.org/entity/Q10582
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,http://www.wikidata.org/entity/Q8679
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,http://www.wikidata.org/entity/Q8864
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,http://www.wikidata.org/entity/Q10430
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,http://www.wikidata.org/entity/Q10464
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,http://www.wikidata.org/entity/Q10511
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,http://www.wikidata.org/entity/Q10565
+http://www.wikidata.org/entity/Q9282,Чаша,282,Crt,http://www.wikidata.org/entity/Q8842
+http://www.wikidata.org/entity/Q9282,Чаша,282,Crt,http://www.wikidata.org/entity/Q8853
+http://www.wikidata.org/entity/Q9282,Чаша,282,Crt,http://www.wikidata.org/entity/Q10517
+http://www.wikidata.org/entity/Q9282,Чаша,282,Crt,http://www.wikidata.org/entity/Q10525
+http://www.wikidata.org/entity/Q9282,Чаша,282,Crt,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q9285,Волосы Вероники,386.5,Com,http://www.wikidata.org/entity/Q8667
+http://www.wikidata.org/entity/Q9285,Волосы Вероники,386.5,Com,http://www.wikidata.org/entity/Q8842
+http://www.wikidata.org/entity/Q9285,Волосы Вероники,386.5,Com,http://www.wikidata.org/entity/Q8853
+http://www.wikidata.org/entity/Q9285,Волосы Вероники,386.5,Com,http://www.wikidata.org/entity/Q8918
+http://www.wikidata.org/entity/Q9285,Волосы Вероники,386.5,Com,http://www.wikidata.org/entity/Q10452
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,http://www.wikidata.org/entity/Q8839
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,http://www.wikidata.org/entity/Q8913
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,http://www.wikidata.org/entity/Q10409
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,http://www.wikidata.org/entity/Q10441
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,http://www.wikidata.org/entity/Q10563
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,http://www.wikidata.org/entity/Q10576
+http://www.wikidata.org/entity/Q9289,Столовая Гора,153,Men,http://www.wikidata.org/entity/Q8837
+http://www.wikidata.org/entity/Q9289,Столовая Гора,153,Men,http://www.wikidata.org/entity/Q10416
+http://www.wikidata.org/entity/Q9289,Столовая Гора,153,Men,http://www.wikidata.org/entity/Q10437
+http://www.wikidata.org/entity/Q9289,Столовая Гора,153,Men,http://www.wikidata.org/entity/Q10457
+http://www.wikidata.org/entity/Q9289,Столовая Гора,153,Men,http://www.wikidata.org/entity/Q10503
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,http://www.wikidata.org/entity/Q8864
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,http://www.wikidata.org/entity/Q10438
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,http://www.wikidata.org/entity/Q10513
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,http://www.wikidata.org/entity/Q10519
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,http://www.wikidata.org/entity/Q10576
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,http://www.wikidata.org/entity/Q10586
+http://www.wikidata.org/entity/Q9305,Малый Пёс,183,CMi,http://www.wikidata.org/entity/Q8849
+http://www.wikidata.org/entity/Q9305,Малый Пёс,183,CMi,http://www.wikidata.org/entity/Q8923
+http://www.wikidata.org/entity/Q9305,Малый Пёс,183,CMi,http://www.wikidata.org/entity/Q10428
+http://www.wikidata.org/entity/Q9305,Малый Пёс,183,CMi,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q10403,Малый Лев,232,LMi,http://www.wikidata.org/entity/Q8849
+http://www.wikidata.org/entity/Q10403,Малый Лев,232,LMi,http://www.wikidata.org/entity/Q8853
+http://www.wikidata.org/entity/Q10403,Малый Лев,232,LMi,http://www.wikidata.org/entity/Q8918
+http://www.wikidata.org/entity/Q10403,Малый Лев,232,LMi,http://www.wikidata.org/entity/Q10443
+http://www.wikidata.org/entity/Q10406,Северная Корона,179,CrB,http://www.wikidata.org/entity/Q8667
+http://www.wikidata.org/entity/Q10406,Северная Корона,179,CrB,http://www.wikidata.org/entity/Q8910
+http://www.wikidata.org/entity/Q10406,Северная Корона,179,CrB,http://www.wikidata.org/entity/Q10448
+http://www.wikidata.org/entity/Q10409,Южная Рыба,245,PsA,http://www.wikidata.org/entity/Q9286
+http://www.wikidata.org/entity/Q10409,Южная Рыба,245,PsA,http://www.wikidata.org/entity/Q10492
+http://www.wikidata.org/entity/Q10409,Южная Рыба,245,PsA,http://www.wikidata.org/entity/Q10535
+http://www.wikidata.org/entity/Q10409,Южная Рыба,245,PsA,http://www.wikidata.org/entity/Q10563
+http://www.wikidata.org/entity/Q10409,Южная Рыба,245,PsA,http://www.wikidata.org/entity/Q10576
+http://www.wikidata.org/entity/Q10413,Южная Корона,128,CrA,http://www.wikidata.org/entity/Q8865
+http://www.wikidata.org/entity/Q10413,Южная Корона,128,CrA,http://www.wikidata.org/entity/Q8866
+http://www.wikidata.org/entity/Q10413,Южная Корона,128,CrA,http://www.wikidata.org/entity/Q9253
+http://www.wikidata.org/entity/Q10413,Южная Корона,128,CrA,http://www.wikidata.org/entity/Q10546
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,http://www.wikidata.org/entity/Q8837
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,http://www.wikidata.org/entity/Q9289
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,http://www.wikidata.org/entity/Q10433
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,http://www.wikidata.org/entity/Q10441
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,http://www.wikidata.org/entity/Q10498
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,http://www.wikidata.org/entity/Q10503
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,http://www.wikidata.org/entity/Q10567
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,http://www.wikidata.org/entity/Q10574
+http://www.wikidata.org/entity/Q10422,Южный Треугольник,110,TrA,http://www.wikidata.org/entity/Q9253
+http://www.wikidata.org/entity/Q10422,Южный Треугольник,110,TrA,http://www.wikidata.org/entity/Q10506
+http://www.wikidata.org/entity/Q10422,Южный Треугольник,110,TrA,http://www.wikidata.org/entity/Q10508
+http://www.wikidata.org/entity/Q10422,Южный Треугольник,110,TrA,http://www.wikidata.org/entity/Q10582
+http://www.wikidata.org/entity/Q10425,Голубь,270,Col,http://www.wikidata.org/entity/Q9251
+http://www.wikidata.org/entity/Q10425,Голубь,270,Col,http://www.wikidata.org/entity/Q10446
+http://www.wikidata.org/entity/Q10425,Голубь,270,Col,http://www.wikidata.org/entity/Q10486
+http://www.wikidata.org/entity/Q10425,Голубь,270,Col,http://www.wikidata.org/entity/Q10488
+http://www.wikidata.org/entity/Q10425,Голубь,270,Col,http://www.wikidata.org/entity/Q10538
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,http://www.wikidata.org/entity/Q8860
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,http://www.wikidata.org/entity/Q8923
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,http://www.wikidata.org/entity/Q9251
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,http://www.wikidata.org/entity/Q9305
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,http://www.wikidata.org/entity/Q10446
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,http://www.wikidata.org/entity/Q10538
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q10430,Ящерица,201,Lac,http://www.wikidata.org/entity/Q8864
+http://www.wikidata.org/entity/Q10430,Ящерица,201,Lac,http://www.wikidata.org/entity/Q8921
+http://www.wikidata.org/entity/Q10430,Ящерица,201,Lac,http://www.wikidata.org/entity/Q9256
+http://www.wikidata.org/entity/Q10430,Ящерица,201,Lac,http://www.wikidata.org/entity/Q10464
+http://www.wikidata.org/entity/Q10430,Ящерица,201,Lac,http://www.wikidata.org/entity/Q10468
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,http://www.wikidata.org/entity/Q8839
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,http://www.wikidata.org/entity/Q8860
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,http://www.wikidata.org/entity/Q8913
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,http://www.wikidata.org/entity/Q10416
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,http://www.wikidata.org/entity/Q10441
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,http://www.wikidata.org/entity/Q10446
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,http://www.wikidata.org/entity/Q10488
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,http://www.wikidata.org/entity/Q10567
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,http://www.wikidata.org/entity/Q10570
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,http://www.wikidata.org/entity/Q10574
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,http://www.wikidata.org/entity/Q8844
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,http://www.wikidata.org/entity/Q10457
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,http://www.wikidata.org/entity/Q10470
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,http://www.wikidata.org/entity/Q10506
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,http://www.wikidata.org/entity/Q10508
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,http://www.wikidata.org/entity/Q10542
+http://www.wikidata.org/entity/Q10437,Летучая Рыба,141.4,Vol,http://www.wikidata.org/entity/Q8837
+http://www.wikidata.org/entity/Q10437,Летучая Рыба,141.4,Vol,http://www.wikidata.org/entity/Q9289
+http://www.wikidata.org/entity/Q10437,Летучая Рыба,141.4,Vol,http://www.wikidata.org/entity/Q10457
+http://www.wikidata.org/entity/Q10437,Летучая Рыба,141.4,Vol,http://www.wikidata.org/entity/Q10470
+http://www.wikidata.org/entity/Q10437,Летучая Рыба,141.4,Vol,http://www.wikidata.org/entity/Q10486
+http://www.wikidata.org/entity/Q10438,Малый Конь,72,Equ,http://www.wikidata.org/entity/Q8864
+http://www.wikidata.org/entity/Q10438,Малый Конь,72,Equ,http://www.wikidata.org/entity/Q9302
+http://www.wikidata.org/entity/Q10438,Малый Конь,72,Equ,http://www.wikidata.org/entity/Q10576
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,http://www.wikidata.org/entity/Q8913
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,http://www.wikidata.org/entity/Q9286
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,http://www.wikidata.org/entity/Q10416
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,http://www.wikidata.org/entity/Q10433
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,http://www.wikidata.org/entity/Q10563
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,http://www.wikidata.org/entity/Q10567
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,http://www.wikidata.org/entity/Q8832
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,http://www.wikidata.org/entity/Q8849
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,http://www.wikidata.org/entity/Q8853
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,http://www.wikidata.org/entity/Q8918
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,http://www.wikidata.org/entity/Q8923
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,http://www.wikidata.org/entity/Q10403
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,http://www.wikidata.org/entity/Q10476
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,http://www.wikidata.org/entity/Q8860
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,http://www.wikidata.org/entity/Q10425
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,http://www.wikidata.org/entity/Q10428
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,http://www.wikidata.org/entity/Q10433
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,http://www.wikidata.org/entity/Q10488
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,http://www.wikidata.org/entity/Q10538
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,http://www.wikidata.org/entity/Q8667
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,http://www.wikidata.org/entity/Q8675
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,http://www.wikidata.org/entity/Q8906
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,http://www.wikidata.org/entity/Q8910
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,http://www.wikidata.org/entity/Q10406
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,http://www.wikidata.org/entity/Q10484
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,http://www.wikidata.org/entity/Q10513
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,http://www.wikidata.org/entity/Q10519
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,http://www.wikidata.org/entity/Q10586
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,http://www.wikidata.org/entity/Q8866
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,http://www.wikidata.org/entity/Q10492
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,http://www.wikidata.org/entity/Q10503
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,http://www.wikidata.org/entity/Q10515
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,http://www.wikidata.org/entity/Q10546
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,http://www.wikidata.org/entity/Q10563
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,http://www.wikidata.org/entity/Q10567
+http://www.wikidata.org/entity/Q10452,Гончие Псы,465,CVn,http://www.wikidata.org/entity/Q8667
+http://www.wikidata.org/entity/Q10452,Гончие Псы,465,CVn,http://www.wikidata.org/entity/Q8918
+http://www.wikidata.org/entity/Q10452,Гончие Псы,465,CVn,http://www.wikidata.org/entity/Q9285
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,http://www.wikidata.org/entity/Q9289
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,http://www.wikidata.org/entity/Q10435
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,http://www.wikidata.org/entity/Q10437
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,http://www.wikidata.org/entity/Q10470
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,http://www.wikidata.org/entity/Q10503
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,http://www.wikidata.org/entity/Q10506
+http://www.wikidata.org/entity/Q10464,Кассиопея,598,Cas,http://www.wikidata.org/entity/Q8832
+http://www.wikidata.org/entity/Q10464,Кассиопея,598,Cas,http://www.wikidata.org/entity/Q9256
+http://www.wikidata.org/entity/Q10464,Кассиопея,598,Cas,http://www.wikidata.org/entity/Q10430
+http://www.wikidata.org/entity/Q10464,Кассиопея,598,Cas,http://www.wikidata.org/entity/Q10468
+http://www.wikidata.org/entity/Q10464,Кассиопея,598,Cas,http://www.wikidata.org/entity/Q10511
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,http://www.wikidata.org/entity/Q8675
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,http://www.wikidata.org/entity/Q8832
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,http://www.wikidata.org/entity/Q8921
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,http://www.wikidata.org/entity/Q10430
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,http://www.wikidata.org/entity/Q10464
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,http://www.wikidata.org/entity/Q10478
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,http://www.wikidata.org/entity/Q8844
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,http://www.wikidata.org/entity/Q9251
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,http://www.wikidata.org/entity/Q10435
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,http://www.wikidata.org/entity/Q10437
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,http://www.wikidata.org/entity/Q10457
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,http://www.wikidata.org/entity/Q10486
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,http://www.wikidata.org/entity/Q10521
+http://www.wikidata.org/entity/Q10473,Компас,221,Pyx,http://www.wikidata.org/entity/Q9251
+http://www.wikidata.org/entity/Q10473,Компас,221,Pyx,http://www.wikidata.org/entity/Q10481
+http://www.wikidata.org/entity/Q10473,Компас,221,Pyx,http://www.wikidata.org/entity/Q10521
+http://www.wikidata.org/entity/Q10473,Компас,221,Pyx,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q10476,Возничий,657,Aur,http://www.wikidata.org/entity/Q8832
+http://www.wikidata.org/entity/Q10476,Возничий,657,Aur,http://www.wikidata.org/entity/Q8923
+http://www.wikidata.org/entity/Q10476,Возничий,657,Aur,http://www.wikidata.org/entity/Q10443
+http://www.wikidata.org/entity/Q10476,Возничий,657,Aur,http://www.wikidata.org/entity/Q10511
+http://www.wikidata.org/entity/Q10476,Возничий,657,Aur,http://www.wikidata.org/entity/Q10570
+http://www.wikidata.org/entity/Q10478,Малая Медведица,256,UMi,http://www.wikidata.org/entity/Q8675
+http://www.wikidata.org/entity/Q10478,Малая Медведица,256,UMi,http://www.wikidata.org/entity/Q8832
+http://www.wikidata.org/entity/Q10478,Малая Медведица,256,UMi,http://www.wikidata.org/entity/Q10468
+http://www.wikidata.org/entity/Q10481,Насос,239,Ant,http://www.wikidata.org/entity/Q8844
+http://www.wikidata.org/entity/Q10481,Насос,239,Ant,http://www.wikidata.org/entity/Q10473
+http://www.wikidata.org/entity/Q10481,Насос,239,Ant,http://www.wikidata.org/entity/Q10521
+http://www.wikidata.org/entity/Q10481,Насос,239,Ant,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q10484,Лира,286.5,Lyr,http://www.wikidata.org/entity/Q8675
+http://www.wikidata.org/entity/Q10484,Лира,286.5,Lyr,http://www.wikidata.org/entity/Q8921
+http://www.wikidata.org/entity/Q10484,Лира,286.5,Lyr,http://www.wikidata.org/entity/Q10448
+http://www.wikidata.org/entity/Q10484,Лира,286.5,Lyr,http://www.wikidata.org/entity/Q10519
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,http://www.wikidata.org/entity/Q8837
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,http://www.wikidata.org/entity/Q9251
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,http://www.wikidata.org/entity/Q10425
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,http://www.wikidata.org/entity/Q10437
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,http://www.wikidata.org/entity/Q10470
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,http://www.wikidata.org/entity/Q10488
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,http://www.wikidata.org/entity/Q8837
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,http://www.wikidata.org/entity/Q10425
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,http://www.wikidata.org/entity/Q10433
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,http://www.wikidata.org/entity/Q10446
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,http://www.wikidata.org/entity/Q10486
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,http://www.wikidata.org/entity/Q10574
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,http://www.wikidata.org/entity/Q8866
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,http://www.wikidata.org/entity/Q10409
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,http://www.wikidata.org/entity/Q10450
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,http://www.wikidata.org/entity/Q10535
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,http://www.wikidata.org/entity/Q10546
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,http://www.wikidata.org/entity/Q10563
+http://www.wikidata.org/entity/Q10498,Сетка,114,Ret,http://www.wikidata.org/entity/Q8837
+http://www.wikidata.org/entity/Q10498,Сетка,114,Ret,http://www.wikidata.org/entity/Q10416
+http://www.wikidata.org/entity/Q10498,Сетка,114,Ret,http://www.wikidata.org/entity/Q10574
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,http://www.wikidata.org/entity/Q9289
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,http://www.wikidata.org/entity/Q10416
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,http://www.wikidata.org/entity/Q10450
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,http://www.wikidata.org/entity/Q10457
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,http://www.wikidata.org/entity/Q10506
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,http://www.wikidata.org/entity/Q10515
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,http://www.wikidata.org/entity/Q10567
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,http://www.wikidata.org/entity/Q9253
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,http://www.wikidata.org/entity/Q10422
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,http://www.wikidata.org/entity/Q10435
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,http://www.wikidata.org/entity/Q10457
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,http://www.wikidata.org/entity/Q10503
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,http://www.wikidata.org/entity/Q10508
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,http://www.wikidata.org/entity/Q10515
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,http://www.wikidata.org/entity/Q8844
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,http://www.wikidata.org/entity/Q10422
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,http://www.wikidata.org/entity/Q10435
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,http://www.wikidata.org/entity/Q10506
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,http://www.wikidata.org/entity/Q10571
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,http://www.wikidata.org/entity/Q10582
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,http://www.wikidata.org/entity/Q8832
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,http://www.wikidata.org/entity/Q9256
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,http://www.wikidata.org/entity/Q10464
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,http://www.wikidata.org/entity/Q10476
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,http://www.wikidata.org/entity/Q10565
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,http://www.wikidata.org/entity/Q10570
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,http://www.wikidata.org/entity/Q10584
+http://www.wikidata.org/entity/Q10513,Стрела,80,Sge,http://www.wikidata.org/entity/Q9302
+http://www.wikidata.org/entity/Q10513,Стрела,80,Sge,http://www.wikidata.org/entity/Q10448
+http://www.wikidata.org/entity/Q10513,Стрела,80,Sge,http://www.wikidata.org/entity/Q10519
+http://www.wikidata.org/entity/Q10513,Стрела,80,Sge,http://www.wikidata.org/entity/Q10586
+http://www.wikidata.org/entity/Q10515,Павлин,378,Pav,http://www.wikidata.org/entity/Q9253
+http://www.wikidata.org/entity/Q10515,Павлин,378,Pav,http://www.wikidata.org/entity/Q10450
+http://www.wikidata.org/entity/Q10515,Павлин,378,Pav,http://www.wikidata.org/entity/Q10503
+http://www.wikidata.org/entity/Q10515,Павлин,378,Pav,http://www.wikidata.org/entity/Q10506
+http://www.wikidata.org/entity/Q10515,Павлин,378,Pav,http://www.wikidata.org/entity/Q10546
+http://www.wikidata.org/entity/Q10517,Ворон,184,Crv,http://www.wikidata.org/entity/Q8842
+http://www.wikidata.org/entity/Q10517,Ворон,184,Crv,http://www.wikidata.org/entity/Q9282
+http://www.wikidata.org/entity/Q10517,Ворон,184,Crv,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,http://www.wikidata.org/entity/Q8864
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,http://www.wikidata.org/entity/Q8921
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,http://www.wikidata.org/entity/Q9302
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,http://www.wikidata.org/entity/Q10448
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,http://www.wikidata.org/entity/Q10484
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,http://www.wikidata.org/entity/Q10513
+http://www.wikidata.org/entity/Q10521,Паруса,500,Vel,http://www.wikidata.org/entity/Q8844
+http://www.wikidata.org/entity/Q10521,Паруса,500,Vel,http://www.wikidata.org/entity/Q9251
+http://www.wikidata.org/entity/Q10521,Паруса,500,Vel,http://www.wikidata.org/entity/Q10470
+http://www.wikidata.org/entity/Q10521,Паруса,500,Vel,http://www.wikidata.org/entity/Q10473
+http://www.wikidata.org/entity/Q10521,Паруса,500,Vel,http://www.wikidata.org/entity/Q10481
+http://www.wikidata.org/entity/Q10525,Секстант,314,Sex,http://www.wikidata.org/entity/Q8853
+http://www.wikidata.org/entity/Q10525,Секстант,314,Sex,http://www.wikidata.org/entity/Q9282
+http://www.wikidata.org/entity/Q10525,Секстант,314,Sex,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q10529,Щит,109,Sct,http://www.wikidata.org/entity/Q8866
+http://www.wikidata.org/entity/Q10529,Щит,109,Sct,http://www.wikidata.org/entity/Q8910
+http://www.wikidata.org/entity/Q10529,Щит,109,Sct,http://www.wikidata.org/entity/Q10586
+http://www.wikidata.org/entity/Q10535,Козерог,414,Cap,http://www.wikidata.org/entity/Q8866
+http://www.wikidata.org/entity/Q10535,Козерог,414,Cap,http://www.wikidata.org/entity/Q10409
+http://www.wikidata.org/entity/Q10535,Козерог,414,Cap,http://www.wikidata.org/entity/Q10492
+http://www.wikidata.org/entity/Q10535,Козерог,414,Cap,http://www.wikidata.org/entity/Q10576
+http://www.wikidata.org/entity/Q10535,Козерог,414,Cap,http://www.wikidata.org/entity/Q10586
+http://www.wikidata.org/entity/Q10538,Большой Пёс,380,CMa,http://www.wikidata.org/entity/Q9251
+http://www.wikidata.org/entity/Q10538,Большой Пёс,380,CMa,http://www.wikidata.org/entity/Q10425
+http://www.wikidata.org/entity/Q10538,Большой Пёс,380,CMa,http://www.wikidata.org/entity/Q10428
+http://www.wikidata.org/entity/Q10538,Большой Пёс,380,CMa,http://www.wikidata.org/entity/Q10446
+http://www.wikidata.org/entity/Q10542,Южный Крест,100,Cru,http://www.wikidata.org/entity/Q8844
+http://www.wikidata.org/entity/Q10542,Южный Крест,100,Cru,http://www.wikidata.org/entity/Q10435
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,http://www.wikidata.org/entity/Q8866
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,http://www.wikidata.org/entity/Q9253
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,http://www.wikidata.org/entity/Q10413
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,http://www.wikidata.org/entity/Q10450
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,http://www.wikidata.org/entity/Q10492
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,http://www.wikidata.org/entity/Q10515
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,http://www.wikidata.org/entity/Q9286
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,http://www.wikidata.org/entity/Q10409
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,http://www.wikidata.org/entity/Q10441
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,http://www.wikidata.org/entity/Q10450
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,http://www.wikidata.org/entity/Q10492
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,http://www.wikidata.org/entity/Q10567
+http://www.wikidata.org/entity/Q10565,Треугольник,132,Tri,http://www.wikidata.org/entity/Q8679
+http://www.wikidata.org/entity/Q10565,Треугольник,132,Tri,http://www.wikidata.org/entity/Q9256
+http://www.wikidata.org/entity/Q10565,Треугольник,132,Tri,http://www.wikidata.org/entity/Q10511
+http://www.wikidata.org/entity/Q10565,Треугольник,132,Tri,http://www.wikidata.org/entity/Q10584
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,http://www.wikidata.org/entity/Q10416
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,http://www.wikidata.org/entity/Q10433
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,http://www.wikidata.org/entity/Q10441
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,http://www.wikidata.org/entity/Q10450
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,http://www.wikidata.org/entity/Q10503
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,http://www.wikidata.org/entity/Q10563
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,http://www.wikidata.org/entity/Q8839
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,http://www.wikidata.org/entity/Q8860
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,http://www.wikidata.org/entity/Q8923
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,http://www.wikidata.org/entity/Q10433
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,http://www.wikidata.org/entity/Q10476
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,http://www.wikidata.org/entity/Q10511
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,http://www.wikidata.org/entity/Q10584
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,http://www.wikidata.org/entity/Q8844
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,http://www.wikidata.org/entity/Q8865
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,http://www.wikidata.org/entity/Q10508
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,http://www.wikidata.org/entity/Q10580
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,http://www.wikidata.org/entity/Q10582
+http://www.wikidata.org/entity/Q10574,Часы,249,Hor,http://www.wikidata.org/entity/Q8837
+http://www.wikidata.org/entity/Q10574,Часы,249,Hor,http://www.wikidata.org/entity/Q10416
+http://www.wikidata.org/entity/Q10574,Часы,249,Hor,http://www.wikidata.org/entity/Q10433
+http://www.wikidata.org/entity/Q10574,Часы,249,Hor,http://www.wikidata.org/entity/Q10488
+http://www.wikidata.org/entity/Q10574,Часы,249,Hor,http://www.wikidata.org/entity/Q10498
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,http://www.wikidata.org/entity/Q8679
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,http://www.wikidata.org/entity/Q8839
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,http://www.wikidata.org/entity/Q8864
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,http://www.wikidata.org/entity/Q9286
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,http://www.wikidata.org/entity/Q9302
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,http://www.wikidata.org/entity/Q10409
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,http://www.wikidata.org/entity/Q10438
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,http://www.wikidata.org/entity/Q10535
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,http://www.wikidata.org/entity/Q10586
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q8842
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q8844
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q8849
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q8853
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q9251
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q9282
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q9305
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q10428
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q10473
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q10481
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q10517
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q10525
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q10571
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,http://www.wikidata.org/entity/Q10580
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,http://www.wikidata.org/entity/Q8842
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,http://www.wikidata.org/entity/Q8844
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,http://www.wikidata.org/entity/Q8865
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,http://www.wikidata.org/entity/Q8906
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,http://www.wikidata.org/entity/Q8910
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,http://www.wikidata.org/entity/Q10571
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,http://www.wikidata.org/entity/Q10578
+http://www.wikidata.org/entity/Q10582,Наугольник,165,Nor,http://www.wikidata.org/entity/Q8865
+http://www.wikidata.org/entity/Q10582,Наугольник,165,Nor,http://www.wikidata.org/entity/Q9253
+http://www.wikidata.org/entity/Q10582,Наугольник,165,Nor,http://www.wikidata.org/entity/Q10422
+http://www.wikidata.org/entity/Q10582,Наугольник,165,Nor,http://www.wikidata.org/entity/Q10508
+http://www.wikidata.org/entity/Q10582,Наугольник,165,Nor,http://www.wikidata.org/entity/Q10571
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,http://www.wikidata.org/entity/Q8866
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,http://www.wikidata.org/entity/Q8906
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,http://www.wikidata.org/entity/Q8910
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,http://www.wikidata.org/entity/Q9302
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,http://www.wikidata.org/entity/Q10448
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,http://www.wikidata.org/entity/Q10513
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,http://www.wikidata.org/entity/Q10529
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,http://www.wikidata.org/entity/Q10535
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,http://www.wikidata.org/entity/Q10576
+http://www.wikidata.org/entity/Q2211961,Q2211961,,,
+http://www.wikidata.org/entity/Q2429974,Q2429974,,,
+http://www.wikidata.org/entity/Q3238710,Рохини (накшатра),,,
+http://www.wikidata.org/entity/Q4158896,Императорская держава,,Pomum,http://www.wikidata.org/entity/Q10576
+http://www.wikidata.org/entity/Q4158896,Императорская держава,,Pomum,http://www.wikidata.org/entity/Q10586
+http://www.wikidata.org/entity/Q10725612,Q10725612,,,
+http://www.wikidata.org/entity/Q10939525,Q10939525,,,
+http://www.wikidata.org/entity/Q97183299,Q97183299,,,
+http://www.wikidata.org/entity/Q109360820,Q109360820,,,
+http://www.wikidata.org/entity/Q109600507,Q109600507,,,
+http://www.wikidata.org/entity/Q132110903,Q132110903,,,
+http://www.wikidata.org/entity/Q136438369,Q136438369,,,
