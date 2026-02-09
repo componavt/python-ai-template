@@ -1,7 +1,0 @@
-# Запрос для извлечения данных о звездах и их созвездиях
-SELECT ?star ?starLabel ?constellation WHERE {
-  ?star wdt:P31 wd:Q523.   # экземпляры звезды
-  ?star wdt:P361 ?constellation.   # часть созвездия
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }
-}
-LIMIT 10000
