@@ -2,9 +2,9 @@
 # Retrieving a list of stars of specific types and their constellations
 # Типы звёзд: гигант, красный сверхгигант, голубой сверхгигант, переменная звезда
 # Star types: giant, red supergiant, blue supergiant, variable star
-SELECT DISTINCT ?star ?starLabel ?constellation ?constellationLabel ?starType ?starTypeLabel WHERE {
+SELECT ?star ?starLabel ?constellation ?constellationLabel ?starTypeLabel WHERE {
   VALUES ?starType { wd:Q5875 wd:Q5898 wd:Q1048372 wd:Q6243 } # типы звёзд
   ?star wdt:P31 ?starType.
   ?star wdt:P361 ?constellation.   # часть созвездия
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en,mul". }
 }
