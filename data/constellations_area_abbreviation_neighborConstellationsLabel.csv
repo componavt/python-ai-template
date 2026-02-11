@@ -1,0 +1,528 @@
+constellation,constellationLabel,area,abbreviation,neighborConstellationsLabel
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,Дракон
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,Дева
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,Змея
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,Большая Медведица
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,Волосы Вероники
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,Северная Корона
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,Геркулес
+http://www.wikidata.org/entity/Q8667,Волопас,907,Boo,Гончие Псы
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,Волопас
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,Жираф
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,Большая Медведица
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,Лебедь
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,Геркулес
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,Цефей
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,Малая Медведица
+http://www.wikidata.org/entity/Q8675,Дракон,1083,Dra,Лира
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,Кит
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,Пегас
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,Андромеда
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,Треугольник
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,Водолей
+http://www.wikidata.org/entity/Q8679,Рыбы,889,Psc,Овен
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,Дракон
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,Большая Медведица
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,Рысь
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,Кассиопея
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,Цефей
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,Возничий
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,Малая Медведица
+http://www.wikidata.org/entity/Q8832,Жираф,757,Cam,Персей
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,Столовая Гора
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,Южная Гидра
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,Летучая Рыба
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,Живописец
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,Резец
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,Сетка
+http://www.wikidata.org/entity/Q8837,Золотая Рыба,179,Dor,Часы
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,Рыбы
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,Печь
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,Скульптор
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,Эридан
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,Телец
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,Водолей
+http://www.wikidata.org/entity/Q8839,Кит,1231,Cet,Овен
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,Волопас
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,Лев
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,Змея
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,Чаша
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,Волосы Вероники
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,Ворон
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,Гидра
+http://www.wikidata.org/entity/Q8842,Дева,1294,Vir,Весы
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,Муха
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,Киль
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,Насос
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,Циркуль
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,Паруса
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,Южный Крест
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,Волк
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,Гидра
+http://www.wikidata.org/entity/Q8844,Центавр,1060,Cen,Весы
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,Дева
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,Рак
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,Большая Медведица
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,Чаша
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,Волосы Вероники
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,Малый Лев
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,Рысь
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,Секстант
+http://www.wikidata.org/entity/Q8853,Лев,947,Leo,Гидра
+http://www.wikidata.org/entity/Q8860,Орион,594,Ori,Близнецы
+http://www.wikidata.org/entity/Q8860,Орион,594,Ori,Единорог
+http://www.wikidata.org/entity/Q8860,Орион,594,Ori,Эридан
+http://www.wikidata.org/entity/Q8860,Орион,594,Ori,Заяц
+http://www.wikidata.org/entity/Q8860,Орион,594,Ori,Телец
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,Рыбы
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,Лебедь
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,Андромеда
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,Дельфин
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,Ящерица
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,Малый Конь
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,Лисичка
+http://www.wikidata.org/entity/Q8864,Пегас,1121,Peg,Водолей
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,Стрелец
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,Змееносец
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,Жертвенник
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,Южная Корона
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,Волк
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,Весы
+http://www.wikidata.org/entity/Q8865,Скорпион,497,Sco,Наугольник
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,Скорпион
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,Змееносец
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,Змея
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,Южная Корона
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,Индеец
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,Микроскоп
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,Щит
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,Козерог
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,Телескоп
+http://www.wikidata.org/entity/Q8866,Стрелец,867,Sgr,Орёл
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,Скорпион
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,Стрелец
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,Змея
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,Геркулес
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,Весы
+http://www.wikidata.org/entity/Q8906,Змееносец,948,Oph,Орёл
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,Волопас
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,Дева
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,Стрелец
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,Змееносец
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,Северная Корона
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,Геркулес
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,Щит
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,Весы
+http://www.wikidata.org/entity/Q8910,Змея,637,Ser,Орёл
+http://www.wikidata.org/entity/Q8913,Печь,397.5,For,Кит
+http://www.wikidata.org/entity/Q8913,Печь,397.5,For,Скульптор
+http://www.wikidata.org/entity/Q8913,Печь,397.5,For,Эридан
+http://www.wikidata.org/entity/Q8913,Печь,397.5,For,Феникс
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,Волопас
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,Дракон
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,Жираф
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,Лев
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,Волосы Вероники
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,Малый Лев
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,Рысь
+http://www.wikidata.org/entity/Q8918,Большая Медведица,1280,UMa,Гончие Псы
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,Дракон
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,Пегас
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,Ящерица
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,Цефей
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,Лира
+http://www.wikidata.org/entity/Q8921,Лебедь,804,Cyg,Лисичка
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,Рак
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,Орион
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,Малый Пёс
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,Единорог
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,Рысь
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,Возничий
+http://www.wikidata.org/entity/Q8923,Близнецы,514,Gem,Телец
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,Голубь
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,Единорог
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,Киль
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,Компас
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,Живописец
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,Паруса
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,Большой Пёс
+http://www.wikidata.org/entity/Q9251,Корма,673,Pup,Гидра
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,Скорпион
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,Южная Корона
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,Южный Треугольник
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,Райская Птица
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,Павлин
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,Телескоп
+http://www.wikidata.org/entity/Q9253,Жертвенник,237,Ara,Наугольник
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,Рыбы
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,Пегас
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,Ящерица
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,Кассиопея
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,Персей
+http://www.wikidata.org/entity/Q9256,Андромеда,722,And,Треугольник
+http://www.wikidata.org/entity/Q9282,Чаша,282,Crt,Дева
+http://www.wikidata.org/entity/Q9282,Чаша,282,Crt,Лев
+http://www.wikidata.org/entity/Q9282,Чаша,282,Crt,Ворон
+http://www.wikidata.org/entity/Q9282,Чаша,282,Crt,Секстант
+http://www.wikidata.org/entity/Q9282,Чаша,282,Crt,Гидра
+http://www.wikidata.org/entity/Q9285,Волосы Вероники,386.5,Com,Волопас
+http://www.wikidata.org/entity/Q9285,Волосы Вероники,386.5,Com,Дева
+http://www.wikidata.org/entity/Q9285,Волосы Вероники,386.5,Com,Лев
+http://www.wikidata.org/entity/Q9285,Волосы Вероники,386.5,Com,Большая Медведица
+http://www.wikidata.org/entity/Q9285,Волосы Вероники,386.5,Com,Гончие Псы
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,Кит
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,Печь
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,Южная Рыба
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,Феникс
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,Журавль
+http://www.wikidata.org/entity/Q9286,Скульптор,475,Scl,Водолей
+http://www.wikidata.org/entity/Q9289,Столовая Гора,153,Men,Золотая Рыба
+http://www.wikidata.org/entity/Q9289,Столовая Гора,153,Men,Южная Гидра
+http://www.wikidata.org/entity/Q9289,Столовая Гора,153,Men,Летучая Рыба
+http://www.wikidata.org/entity/Q9289,Столовая Гора,153,Men,Хамелеон
+http://www.wikidata.org/entity/Q9289,Столовая Гора,153,Men,Октант
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,Пегас
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,Малый Конь
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,Стрела
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,Лисичка
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,Водолей
+http://www.wikidata.org/entity/Q9302,Дельфин,189,Del,Орёл
+http://www.wikidata.org/entity/Q9305,Малый Пёс,183,CMi,Рак
+http://www.wikidata.org/entity/Q9305,Малый Пёс,183,CMi,Близнецы
+http://www.wikidata.org/entity/Q9305,Малый Пёс,183,CMi,Единорог
+http://www.wikidata.org/entity/Q9305,Малый Пёс,183,CMi,Гидра
+http://www.wikidata.org/entity/Q10403,Малый Лев,232,LMi,Рак
+http://www.wikidata.org/entity/Q10403,Малый Лев,232,LMi,Лев
+http://www.wikidata.org/entity/Q10403,Малый Лев,232,LMi,Большая Медведица
+http://www.wikidata.org/entity/Q10403,Малый Лев,232,LMi,Рысь
+http://www.wikidata.org/entity/Q10406,Северная Корона,179,CrB,Волопас
+http://www.wikidata.org/entity/Q10406,Северная Корона,179,CrB,Змея
+http://www.wikidata.org/entity/Q10406,Северная Корона,179,CrB,Геркулес
+http://www.wikidata.org/entity/Q10409,Южная Рыба,245,PsA,Скульптор
+http://www.wikidata.org/entity/Q10409,Южная Рыба,245,PsA,Микроскоп
+http://www.wikidata.org/entity/Q10409,Южная Рыба,245,PsA,Козерог
+http://www.wikidata.org/entity/Q10409,Южная Рыба,245,PsA,Журавль
+http://www.wikidata.org/entity/Q10409,Южная Рыба,245,PsA,Водолей
+http://www.wikidata.org/entity/Q10413,Южная Корона,128,CrA,Скорпион
+http://www.wikidata.org/entity/Q10413,Южная Корона,128,CrA,Стрелец
+http://www.wikidata.org/entity/Q10413,Южная Корона,128,CrA,Жертвенник
+http://www.wikidata.org/entity/Q10413,Южная Корона,128,CrA,Телескоп
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,Золотая Рыба
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,Столовая Гора
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,Эридан
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,Феникс
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,Сетка
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,Октант
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,Тукан
+http://www.wikidata.org/entity/Q10416,Южная Гидра,243,Hyi,Часы
+http://www.wikidata.org/entity/Q10422,Южный Треугольник,110,TrA,Жертвенник
+http://www.wikidata.org/entity/Q10422,Южный Треугольник,110,TrA,Райская Птица
+http://www.wikidata.org/entity/Q10422,Южный Треугольник,110,TrA,Циркуль
+http://www.wikidata.org/entity/Q10422,Южный Треугольник,110,TrA,Наугольник
+http://www.wikidata.org/entity/Q10425,Голубь,270,Col,Корма
+http://www.wikidata.org/entity/Q10425,Голубь,270,Col,Заяц
+http://www.wikidata.org/entity/Q10425,Голубь,270,Col,Живописец
+http://www.wikidata.org/entity/Q10425,Голубь,270,Col,Резец
+http://www.wikidata.org/entity/Q10425,Голубь,270,Col,Большой Пёс
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,Орион
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,Близнецы
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,Корма
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,Малый Пёс
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,Заяц
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,Большой Пёс
+http://www.wikidata.org/entity/Q10428,Единорог,482,Mon,Гидра
+http://www.wikidata.org/entity/Q10430,Ящерица,201,Lac,Пегас
+http://www.wikidata.org/entity/Q10430,Ящерица,201,Lac,Лебедь
+http://www.wikidata.org/entity/Q10430,Ящерица,201,Lac,Андромеда
+http://www.wikidata.org/entity/Q10430,Ящерица,201,Lac,Кассиопея
+http://www.wikidata.org/entity/Q10430,Ящерица,201,Lac,Цефей
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,Кит
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,Орион
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,Печь
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,Южная Гидра
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,Феникс
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,Заяц
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,Резец
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,Тукан
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,Телец
+http://www.wikidata.org/entity/Q10433,Эридан,1138,Eri,Часы
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,Центавр
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,Хамелеон
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,Киль
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,Райская Птица
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,Циркуль
+http://www.wikidata.org/entity/Q10435,Муха,138,Mus,Южный Крест
+http://www.wikidata.org/entity/Q10437,Летучая Рыба,141.4,Vol,Золотая Рыба
+http://www.wikidata.org/entity/Q10437,Летучая Рыба,141.4,Vol,Столовая Гора
+http://www.wikidata.org/entity/Q10437,Летучая Рыба,141.4,Vol,Хамелеон
+http://www.wikidata.org/entity/Q10437,Летучая Рыба,141.4,Vol,Киль
+http://www.wikidata.org/entity/Q10437,Летучая Рыба,141.4,Vol,Живописец
+http://www.wikidata.org/entity/Q10438,Малый Конь,72,Equ,Пегас
+http://www.wikidata.org/entity/Q10438,Малый Конь,72,Equ,Дельфин
+http://www.wikidata.org/entity/Q10438,Малый Конь,72,Equ,Водолей
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,Печь
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,Скульптор
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,Южная Гидра
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,Эридан
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,Журавль
+http://www.wikidata.org/entity/Q10441,Феникс,469,Phe,Тукан
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,Жираф
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,Рак
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,Лев
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,Большая Медведица
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,Близнецы
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,Малый Лев
+http://www.wikidata.org/entity/Q10443,Рысь,545,Lyn,Возничий
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,Орион
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,Голубь
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,Единорог
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,Эридан
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,Резец
+http://www.wikidata.org/entity/Q10446,Заяц,290,Lep,Большой Пёс
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,Волопас
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,Дракон
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,Змееносец
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,Змея
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,Северная Корона
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,Лира
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,Стрела
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,Лисичка
+http://www.wikidata.org/entity/Q10448,Геркулес,1225,Her,Орёл
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,Стрелец
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,Микроскоп
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,Октант
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,Павлин
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,Телескоп
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,Журавль
+http://www.wikidata.org/entity/Q10450,Индеец,294,Ind,Тукан
+http://www.wikidata.org/entity/Q10452,Гончие Псы,465,CVn,Волопас
+http://www.wikidata.org/entity/Q10452,Гончие Псы,465,CVn,Большая Медведица
+http://www.wikidata.org/entity/Q10452,Гончие Псы,465,CVn,Волосы Вероники
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,Столовая Гора
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,Муха
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,Летучая Рыба
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,Киль
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,Октант
+http://www.wikidata.org/entity/Q10457,Хамелеон,132,Cha,Райская Птица
+http://www.wikidata.org/entity/Q10464,Кассиопея,598,Cas,Жираф
+http://www.wikidata.org/entity/Q10464,Кассиопея,598,Cas,Андромеда
+http://www.wikidata.org/entity/Q10464,Кассиопея,598,Cas,Ящерица
+http://www.wikidata.org/entity/Q10464,Кассиопея,598,Cas,Цефей
+http://www.wikidata.org/entity/Q10464,Кассиопея,598,Cas,Персей
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,Дракон
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,Жираф
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,Лебедь
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,Ящерица
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,Кассиопея
+http://www.wikidata.org/entity/Q10468,Цефей,589,Cep,Малая Медведица
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,Центавр
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,Корма
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,Муха
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,Летучая Рыба
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,Хамелеон
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,Живописец
+http://www.wikidata.org/entity/Q10470,Киль,494,Car,Паруса
+http://www.wikidata.org/entity/Q10473,Компас,221,Pyx,Корма
+http://www.wikidata.org/entity/Q10473,Компас,221,Pyx,Насос
+http://www.wikidata.org/entity/Q10473,Компас,221,Pyx,Паруса
+http://www.wikidata.org/entity/Q10473,Компас,221,Pyx,Гидра
+http://www.wikidata.org/entity/Q10476,Возничий,657,Aur,Жираф
+http://www.wikidata.org/entity/Q10476,Возничий,657,Aur,Близнецы
+http://www.wikidata.org/entity/Q10476,Возничий,657,Aur,Рысь
+http://www.wikidata.org/entity/Q10476,Возничий,657,Aur,Персей
+http://www.wikidata.org/entity/Q10476,Возничий,657,Aur,Телец
+http://www.wikidata.org/entity/Q10478,Малая Медведица,256,UMi,Дракон
+http://www.wikidata.org/entity/Q10478,Малая Медведица,256,UMi,Жираф
+http://www.wikidata.org/entity/Q10478,Малая Медведица,256,UMi,Цефей
+http://www.wikidata.org/entity/Q10481,Насос,239,Ant,Центавр
+http://www.wikidata.org/entity/Q10481,Насос,239,Ant,Компас
+http://www.wikidata.org/entity/Q10481,Насос,239,Ant,Паруса
+http://www.wikidata.org/entity/Q10481,Насос,239,Ant,Гидра
+http://www.wikidata.org/entity/Q10484,Лира,286.5,Lyr,Дракон
+http://www.wikidata.org/entity/Q10484,Лира,286.5,Lyr,Лебедь
+http://www.wikidata.org/entity/Q10484,Лира,286.5,Lyr,Геркулес
+http://www.wikidata.org/entity/Q10484,Лира,286.5,Lyr,Лисичка
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,Золотая Рыба
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,Корма
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,Голубь
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,Летучая Рыба
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,Киль
+http://www.wikidata.org/entity/Q10486,Живописец,247,Pic,Резец
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,Золотая Рыба
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,Голубь
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,Эридан
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,Заяц
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,Живописец
+http://www.wikidata.org/entity/Q10488,Резец,125,Cae,Часы
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,Стрелец
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,Южная Рыба
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,Индеец
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,Козерог
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,Телескоп
+http://www.wikidata.org/entity/Q10492,Микроскоп,209.5,Mic,Журавль
+http://www.wikidata.org/entity/Q10498,Сетка,114,Ret,Золотая Рыба
+http://www.wikidata.org/entity/Q10498,Сетка,114,Ret,Южная Гидра
+http://www.wikidata.org/entity/Q10498,Сетка,114,Ret,Часы
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,Столовая Гора
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,Южная Гидра
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,Индеец
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,Хамелеон
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,Райская Птица
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,Павлин
+http://www.wikidata.org/entity/Q10503,Октант,291,Oct,Тукан
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,Жертвенник
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,Южный Треугольник
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,Муха
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,Хамелеон
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,Октант
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,Циркуль
+http://www.wikidata.org/entity/Q10506,Райская Птица,206,Aps,Павлин
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,Центавр
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,Южный Треугольник
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,Муха
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,Райская Птица
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,Волк
+http://www.wikidata.org/entity/Q10508,Циркуль,93,Cir,Наугольник
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,Жираф
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,Андромеда
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,Кассиопея
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,Возничий
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,Треугольник
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,Телец
+http://www.wikidata.org/entity/Q10511,Персей,615,Per,Овен
+http://www.wikidata.org/entity/Q10513,Стрела,80,Sge,Дельфин
+http://www.wikidata.org/entity/Q10513,Стрела,80,Sge,Геркулес
+http://www.wikidata.org/entity/Q10513,Стрела,80,Sge,Лисичка
+http://www.wikidata.org/entity/Q10513,Стрела,80,Sge,Орёл
+http://www.wikidata.org/entity/Q10515,Павлин,378,Pav,Жертвенник
+http://www.wikidata.org/entity/Q10515,Павлин,378,Pav,Индеец
+http://www.wikidata.org/entity/Q10515,Павлин,378,Pav,Октант
+http://www.wikidata.org/entity/Q10515,Павлин,378,Pav,Райская Птица
+http://www.wikidata.org/entity/Q10515,Павлин,378,Pav,Телескоп
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,Гидра
+http://www.wikidata.org/entity/Q10582,Наугольник,165,Nor,Скорпион
+http://www.wikidata.org/entity/Q10582,Наугольник,165,Nor,Жертвенник
+http://www.wikidata.org/entity/Q10582,Наугольник,165,Nor,Южный Треугольник
+http://www.wikidata.org/entity/Q10582,Наугольник,165,Nor,Циркуль
+http://www.wikidata.org/entity/Q10582,Наугольник,165,Nor,Волк
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,Стрелец
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,Змееносец
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,Змея
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,Дельфин
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,Геркулес
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,Стрела
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,Щит
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,Козерог
+http://www.wikidata.org/entity/Q10586,Орёл,652.5,Aql,Водолей
+http://www.wikidata.org/entity/Q2211961,Sah,,,
+http://www.wikidata.org/entity/Q2429974,Q2429974,,,
+http://www.wikidata.org/entity/Q3238710,Рохини (накшатра),,,
+http://www.wikidata.org/entity/Q4158896,Императорская держава,,Pomum,Водолей
+http://www.wikidata.org/entity/Q4158896,Императорская держава,,Pomum,Орёл
+http://www.wikidata.org/entity/Q10725612,Q10725612,,,
+http://www.wikidata.org/entity/Q10939525,Left Wall of the Heavenly Market Enclosure,,,
+http://www.wikidata.org/entity/Q97183299,Gladii Electorales Saxonici,,,
+http://www.wikidata.org/entity/Q109360820,Sciurus Volans,,,
+http://www.wikidata.org/entity/Q109600507,Marmor Sculptile,,,
+http://www.wikidata.org/entity/Q132110903,Q132110903,,,
+http://www.wikidata.org/entity/Q136438369,Q136438369,,,
+http://www.wikidata.org/entity/Q10517,Ворон,184,Crv,Дева
+http://www.wikidata.org/entity/Q10517,Ворон,184,Crv,Чаша
+http://www.wikidata.org/entity/Q10517,Ворон,184,Crv,Гидра
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,Пегас
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,Лебедь
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,Дельфин
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,Геркулес
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,Лира
+http://www.wikidata.org/entity/Q10519,Лисичка,268,Vul,Стрела
+http://www.wikidata.org/entity/Q10521,Паруса,500,Vel,Центавр
+http://www.wikidata.org/entity/Q10521,Паруса,500,Vel,Корма
+http://www.wikidata.org/entity/Q10521,Паруса,500,Vel,Киль
+http://www.wikidata.org/entity/Q10521,Паруса,500,Vel,Компас
+http://www.wikidata.org/entity/Q10521,Паруса,500,Vel,Насос
+http://www.wikidata.org/entity/Q10525,Секстант,314,Sex,Лев
+http://www.wikidata.org/entity/Q10525,Секстант,314,Sex,Чаша
+http://www.wikidata.org/entity/Q10525,Секстант,314,Sex,Гидра
+http://www.wikidata.org/entity/Q10529,Щит,109,Sct,Стрелец
+http://www.wikidata.org/entity/Q10529,Щит,109,Sct,Змея
+http://www.wikidata.org/entity/Q10529,Щит,109,Sct,Орёл
+http://www.wikidata.org/entity/Q10535,Козерог,414,Cap,Стрелец
+http://www.wikidata.org/entity/Q10535,Козерог,414,Cap,Южная Рыба
+http://www.wikidata.org/entity/Q10535,Козерог,414,Cap,Микроскоп
+http://www.wikidata.org/entity/Q10535,Козерог,414,Cap,Водолей
+http://www.wikidata.org/entity/Q10535,Козерог,414,Cap,Орёл
+http://www.wikidata.org/entity/Q10538,Большой Пёс,380,CMa,Корма
+http://www.wikidata.org/entity/Q10538,Большой Пёс,380,CMa,Голубь
+http://www.wikidata.org/entity/Q10538,Большой Пёс,380,CMa,Единорог
+http://www.wikidata.org/entity/Q10538,Большой Пёс,380,CMa,Заяц
+http://www.wikidata.org/entity/Q10542,Южный Крест,100,Cru,Центавр
+http://www.wikidata.org/entity/Q10542,Южный Крест,100,Cru,Муха
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,Стрелец
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,Жертвенник
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,Южная Корона
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,Индеец
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,Микроскоп
+http://www.wikidata.org/entity/Q10546,Телескоп,251.5,Tel,Павлин
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,Скульптор
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,Южная Рыба
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,Феникс
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,Индеец
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,Микроскоп
+http://www.wikidata.org/entity/Q10563,Журавль,365.5,Gru,Тукан
+http://www.wikidata.org/entity/Q10565,Треугольник,132,Tri,Рыбы
+http://www.wikidata.org/entity/Q10565,Треугольник,132,Tri,Андромеда
+http://www.wikidata.org/entity/Q10565,Треугольник,132,Tri,Персей
+http://www.wikidata.org/entity/Q10565,Треугольник,132,Tri,Овен
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,Южная Гидра
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,Эридан
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,Феникс
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,Индеец
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,Октант
+http://www.wikidata.org/entity/Q10567,Тукан,295,Tuc,Журавль
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,Кит
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,Орион
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,Близнецы
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,Эридан
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,Возничий
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,Персей
+http://www.wikidata.org/entity/Q10570,Телец,797,Tau,Овен
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,Центавр
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,Скорпион
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,Циркуль
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,Гидра
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,Весы
+http://www.wikidata.org/entity/Q10571,Волк,334,Lup,Наугольник
+http://www.wikidata.org/entity/Q10574,Часы,249,Hor,Золотая Рыба
+http://www.wikidata.org/entity/Q10574,Часы,249,Hor,Южная Гидра
+http://www.wikidata.org/entity/Q10574,Часы,249,Hor,Эридан
+http://www.wikidata.org/entity/Q10574,Часы,249,Hor,Резец
+http://www.wikidata.org/entity/Q10574,Часы,249,Hor,Сетка
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,Рыбы
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,Кит
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,Пегас
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,Скульптор
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,Дельфин
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,Южная Рыба
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,Малый Конь
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,Козерог
+http://www.wikidata.org/entity/Q10576,Водолей,980,Aqr,Орёл
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Дева
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Центавр
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Рак
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Лев
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Корма
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Чаша
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Малый Пёс
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Единорог
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Компас
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Насос
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Ворон
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Секстант
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Волк
+http://www.wikidata.org/entity/Q10578,Гидра,1303,Hya,Весы
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,Дева
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,Центавр
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,Скорпион
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,Змееносец
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,Змея
+http://www.wikidata.org/entity/Q10580,Весы,538,Lib,Волк
