@@ -1,0 +1,15 @@
+# Извлекаем название вулканов с указанием их высоты над уровнем моря, континента и горной системы
+# Extracting the names of volcanoes, indicating their altitude above sea level, continent, and mountain range.
+
+SELECT DISTINCT ?volcanoLabel ?elevation ?continentLabel ?mountainRangeLabel WHERE {
+  ?volcano wdt:P31 wd:Q8072.  # Только вулканы
+  ?volcano rdfs:label ?volcanoLabel FILTER(LANG(?volcanoLabel) = "ru").  # Только русские названия вулканов
+  OPTIONAL { ?volcano wdt:P2044 ?elevation. }  # Высота над уровнем моря
+  OPTIONAL { ?volcano wdt:P30 ?continent. }  # Континент
+  OPTIONAL {
+    ?volcano wdt:P4552 ?mountainRange.
+    ?mountainRange rdfs:label ?mountainRangeLabel FILTER(LANG(?mountainRangeLabel) = "ru").  # Только русские названия горных систем
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru". }  # Метки для континентов на русском
+}
+LIMIT 500
