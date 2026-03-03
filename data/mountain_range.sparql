@@ -1,0 +1,17 @@
+# Горные системы: страна, координаты, высшая точка, высота, длина, часть чего
+# Mountain ranges: country, coordinates, highest point, elevation, length, part of
+SELECT ?mr ?mrLabel ?country ?countryLabel ?coord
+       ?highPoint ?highPointLabel ?elevation ?length ?partOf ?partOfLabel
+WHERE {
+  ?mr wdt:P31 wd:Q46831 .                      # экземпляр: горная система
+
+  OPTIONAL { ?mr wdt:P17   ?country }          # страна (может быть несколько)
+  OPTIONAL { ?mr wdt:P625  ?coord }            # координаты
+  OPTIONAL { ?mr wdt:P610  ?highPoint }        # высшая точка
+  OPTIONAL { ?mr wdt:P2044 ?elevation }        # высота над уровнем моря
+  OPTIONAL { ?mr wdt:P2043 ?length }           # длина
+  OPTIONAL { ?mr wdt:P361  ?partOf }           # часть чего (для сетевого графа)
+
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en,mul" }
+}
+ORDER BY ?mr
