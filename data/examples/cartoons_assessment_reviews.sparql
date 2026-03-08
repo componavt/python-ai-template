@@ -1,0 +1,21 @@
+# Extracting animated films with publication year, assessment data, outcomes, and review scores for analysis.
+# Извлекаем мультфильмы с годом выпуска, данными об оценке, результатах и рейтингах для анализа.
+SELECT ?film ?filmLabel ?publicationYear 
+       ?assessmentLabel ?outcomeLabel ?reviewScore
+WHERE {
+  ?film wdt:P31 wd:Q202866 .                                # Экземпляры мультфильмов
+  
+  OPTIONAL {                                                # Год публикации
+    ?film wdt:P577 ?publicationDate.
+    BIND(YEAR(?publicationDate) AS ?publicationYear)
+  }
+  
+  OPTIONAL {                                                # Оценка с квалификаторами
+    ?film p:P5021 ?a.                                       # Statement node оценки
+    ?a ps:P5021 ?assessment.                                # Тип оценки/теста
+    OPTIONAL {?a pq:P9259 ?outcome.}                        # Результат оценки
+    OPTIONAL {?a pq:P444 ?reviewScore.}                     # Рейтинг
+  }
+
+  SERVICE wikibase:label {bd:serviceParam wikibase:language "ru,en,mul"}
+}

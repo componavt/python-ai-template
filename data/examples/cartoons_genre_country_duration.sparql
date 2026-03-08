@@ -1,7 +1,6 @@
 # Extracting animated films with genre, country, duration, and budget data for comprehensive analysis of animation film characteristics.
 # Извлекаем мультфильмы с информацией о жанре, стране происхождения, длительности и бюджете для комплексного анализа характеристик мультипликационных фильмов.
-
-SELECT DISTINCT ?film ?filmLabel ?genreLabel ?countryLabel ?duration ?capital_cost
+SELECT ?film ?filmLabel ?genreLabel ?countryLabel ?duration ?capital_cost
 WHERE {
   ?film wdt:P31 wd:Q202866 ;  # Экземпляры мультфильмов (Q202866)
         wdt:P136 ?genre ;     # Жанр мультфильма
@@ -9,5 +8,5 @@ WHERE {
         wdt:P2047 ?duration;  # Продолжительность (в минутах)
         wdt:P2130 ?capital_cost. # Затраты на мультфильм (budget)
 
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru" }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "ru,en,mul" }
 }
