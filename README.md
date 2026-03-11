@@ -1,6 +1,6 @@
 # python-ai-template
 
-🚀 Шаблон для курса "Основы программирования на Python с использованием ИИ"
+🚀 Шаблон для курса «Основы программирования на Python с использованием ИИ»
 
 ---
 
@@ -28,22 +28,31 @@
 ```
 python-ai-Ivanov-Ivan/
 │
-├── README.md                         # Этот файл
-├── notebooks/                        # Jupyter-ноутбуки с кодом
-│   ├── week1_intro.ipynb            # Неделя 1: введение
-│   ├── week2_data_analysis.ipynb    # Неделя 2: анализ данных
-│   └── week3_visualization.ipynb    # Неделя 3: визуализация
+├── README.md                              # Этот файл
+├── notebooks/                             # Jupyter-ноутбуки с кодом
+│   ├── week2b_read_csv.ipynb             # Задание 2: чтение и анализ CSV
+│   └── week3_visualization.ipynb         # Задание 3: визуализация
 │
-├── data/                            # Ваши данные в CSV
-│   ├── my_data.csv                  # Ваш CSV-файл с данными
-│   └── examples/                    # Примеры CSV от преподавателя
+├── data/                                  # Данные и SPARQL-запросы
+│   ├── entity_info.sparql                # SPARQL-запрос: основные атрибуты
+│   ├── entity_info.csv                   # CSV, полученный из Викиданных
+│   ├── entity_fin.sparql                 # SPARQL-запрос: финансовые данные (если нужно)
+│   ├── entity_fin.csv                    # Соответствующий CSV
+│   ├── entity_info_cleaned.csv           # (опционально) очищенный DataFrame
+│   └── examples/                         # Примеры CSV от преподавателя
 │       ├── cartoons_capital_cost.csv
 │       └── cartoons_genre_country_duration.csv
 │
-└── prompts/                         # Таблица диалогов с ИИ
-    ├── prompts_2026_Surname_Name.xlsx  # Шаблон таблицы
-    └── README.md                       # Инструкция по заполнению
+└── prompts/                               # Таблица диалогов с ИИ
+    └── README.md                          # Инструкция по заполнению
 ```
+
+> **Соглашение об именах файлов:**  
+> `entity` — это тема вашего датасета: `volcanoes`, `museums`, `tea_coffee` и т.п.  
+> Один `.sparql`-файл → один `.csv`-файл → один тип объектов.  
+> Файл `*_cleaned.csv` создаётся в задании 2 **только если** данные потребовали
+> существенной обработки (парсинг координат, фильтрация, объединение файлов).
+> Исходные CSV не перезаписываются.
 
 ---
 
@@ -53,7 +62,17 @@ python-ai-Ivanov-Ivan/
 
 1. Откройте файл `.ipynb` на GitHub
 2. Замените `github.com` на `colab.research.google.com/github` в URL
-3. Или используйте расширение браузера "Open in Colab"
+3. Или используйте расширение браузера «Open in Colab»
+
+**Клонирование репозитория в Colab (начало каждого ноутбука):**
+
+```python
+import os
+repo = 'python-ai-Ivanov-Ivan'  # ← замените на своё имя репозитория
+if not os.path.exists(f'/content/{repo}'):
+    !git clone https://github.com/ВашЛогин/{repo} /content/{repo}
+%cd /content/{repo}
+```
 
 **Сохранение изменений обратно в GitHub:**
 - File → Save a copy in GitHub → выберите свой репозиторий
@@ -62,13 +81,13 @@ python-ai-Ivanov-Ivan/
 
 ## 🤖 Шаг 3. Работа с AI-платформами
 
-Для каждой недели своя платформа:
+Для каждого задания своя платформа:
 
-| Неделя | Платформа | Регистрация |
-|--------|-----------|-------------|
-| 1 | LeChat Mistral | https://chat.mistral.ai |
-| 2 | Qwen | https://chat.qwen.ai |
-| 3 | DeepSeek | https://chat.deepseek.com |
+| Задание | Платформа | Ссылка |
+|---------|-----------|--------|
+| 1 (SPARQL) | LeChat Mistral | https://chat.mistral.ai |
+| 2 (pandas) | Qwen | https://chat.qwen.ai |
+| 3 (визуализация) | DeepSeek | https://chat.deepseek.com |
 
 **Шаблон промпта для начинающих:**
 
@@ -106,89 +125,111 @@ python-ai-Ivanov-Ivan/
 - ✅ Выпадающие списки для быстрого выбора
 - ✅ Не нужно коммитить изменения
 
-**Подробная инструкция:** см. файл `prompts/README.md` в репозитории
-
-### Альтернатива: файл .xlsx в репозитории
-
-Если у вас нет аккаунта Google, используйте файл `prompts/prompts_2026_Surname_Name.xlsx`:
-- Переименуйте в `prompts_2026_Фамилия_Имя.xlsx`
-- Заполняйте локально в Excel/LibreOffice
-- Загружайте обратно в GitHub
-
 ---
 
 ## 🎯 Шаг 5. Выполнение заданий
 
 Единое задание из трёх частей / Single assignment in three parts
 
-### Часть 1 (Неделя 1): Подготовка данных из Викиданных
+---
 
-**Цель:** Получить CSV-файл с данными из Викиданных с помощью SPARQL-запросов.
+### Часть 1 (Задание 1): Подготовка данных из Викиданных
+
+**Цель:** Получить CSV-файлы с данными из Викиданных с помощью SPARQL-запросов.
 
 **Задачи:**
-1. Выберите объект для исследования в Wikidata (страны, фильмы, книги, компании и т.п.)
-2. Определите интересующие вас свойства этого объекта
-3. С помощью ИИ (Mistral) постройте SPARQL-запрос для получения данных
-4. Экспортируйте результат в CSV и сохраните в папку `data/`
+1. Выберите объект для исследования в Wikidata (компании, фильмы, вулканы, памятники и т.п.)
+2. Определите интересующие вас свойства объекта
+3. С помощью ИИ (Mistral) напишите SPARQL-запрос и получите данные
+4. Сохраните файлы в папку `data/`: запрос как `entity_info.sparql`, результат как `entity_info.csv`
+
+**Рекомендация: несколько файлов вместо одного большого**
+
+Если данные разнородны по структуре (например, основные атрибуты + финансовая история по годам), разделите их на два файла:
+
+| Файл | Что содержит |
+|------|-------------|
+| `entity_info.sparql` / `.csv` | Координаты, страна, год основания — одна строка на объект |
+| `entity_fin.sparql` / `.csv` | Выручка, сотрудники по годам — несколько строк на объект |
 
 **Требования к данным:**
 - Формат: CSV (кодировка UTF-8, разделитель — запятая)
-- Минимум 50 строк, минимум 3 столбца
-- Данные должны быть реальными (из Викиданных)
-- Источник данных должен быть воспроизводимым (сохраните SPARQL-запрос)
+- URI главного объекта (ссылка на Викиданные) — обязательно в SELECT и в CSV
+- Источник воспроизводим: сохранён `.sparql`-файл с комментариями
 
-**Пример диалога с ИИ для получения данных:**  
+**Пример диалога с ИИ:**  
 👉 [Пример работы с Mistral: мультфильмы из Викиданных](https://chat.mistral.ai/chat/a9679dae-6d1a-4214-8572-a378c49c46d1)
 
 **Примеры готовых CSV-файлов:**  
-В папке `data/examples/` вы найдёте два примера CSV, полученных из Викиданных:
-- `cartoons_capital_cost.csv` — мультфильмы с указанием затрат на производство
+В папке `data/examples/` вы найдёте примеры CSV, полученных из Викиданных:
+- `cartoons_capital_cost.csv` — мультфильмы с затратами на производство
 - `cartoons_genre_country_duration.csv` — мультфильмы с жанрами, странами и продолжительностью
 
 **Полезные ресурсы:**
 - Wikidata Query Service: https://query.wikidata.org/
 - Примеры SPARQL-запросов: https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples
-- Курс "Программирование Викиданных": https://ru.wikiversity.org/?curid=23388
+- Курс «Программирование Викиданных»: https://ru.wikiversity.org/?curid=23388
 
 ---
 
-### Часть 2 (Неделя 2): Чтение и базовая обработка
+### Часть 2 (Задание 2): Анализ данных в Colab
 
-**Цель:** Прочитать ваш CSV-файл из GitHub в Google Colab и выполнить первичную обработку.
+**Цель:** Загрузить CSV из GitHub в Google Colab, изучить структуру данных и подготовить их к визуализации.
 
-**Задачи:**
-1. В ноутбуке `notebooks/week2_data_analysis.ipynb` напишите код, который:
-   - Читает ваш CSV из папки `data/` через raw-ссылку GitHub
-   - Выводит первые строки таблицы
-   - Показывает информацию о структуре данных (типы, количество записей)
-   - Вычисляет базовые статистики (среднее, минимум, максимум и т.п.)
-
-**Инструменты:** Python (pandas), Google Colab, GitHub
-
+**Ноутбук:** `notebooks/week2b_read_csv.ipynb`  
 **Платформа ИИ:** Qwen
 
+**Шаги в ноутбуке:**
+
+0. **Импорты** — все `import` только в первой ячейке
+1. **Клонирование репозитория** в Colab (по абсолютному пути `/content/{repo}`)
+2. **Чтение CSV** — через `pd.read_csv(...)`, вывод первых строк
+3. **Очистка столбцов** — переименование, приведение типов:
+   - Столбец с URI объекта **не удалять**, а переименовать в `URL`
+   - Числовые столбцы: `pd.to_numeric(..., errors='coerce')`
+   - OPTIONAL-поля (год смерти и аналоги) — **без** `fillna(0)`, NaN означает «данных нет»
+4. **Анализ** — `.describe()`, `.value_counts()`, заполненность OPTIONAL-полей, выбросы
+5. **Экспорт** *(опционально)* — если данные существенно преобразованы (распарсены координаты, отфильтрованы аномалии, объединены несколько файлов), сохранить результат:
+
+```python
+df.to_csv('data/entity_info_cleaned.csv', index=False, encoding='utf-8-sig')
+```
+
+> Если данные не требовали преобразований — шаг пропускается;  
+> в задании 3 читается исходный CSV напрямую.
+
+**Важно: «длинный формат»**  
+Если CSV содержит несколько строк на один объект (из-за многозначных полей — жанры, соседи, финансовые данные по годам) — зафиксируйте это в Markdown-ячейке. Пример: «1555 строк = ~150 компаний × несколько лет финансовых данных». Это не ошибка, а особенность структуры.
+
 ---
 
-### Часть 3 (Неделя 3): Анализ и визуализация
+### Часть 3 (Задание 3): Визуализация
 
-**Цель:** Проанализировать данные и построить графики.
+**Цель:** Построить осмысленные графики на основе подготовленных данных.
+
+**Ноутбук:** `notebooks/week3_visualization.ipynb`  
+**Платформа ИИ:** DeepSeek
 
 **Задачи:**
-1. В ноутбуке `notebooks/week3_visualization.ipynb`:
-   - Выполните анализ: группировки, агрегации, вычисление интересных показателей
-   - Постройте 2–3 графика (линейные, столбчатые, гистограммы и т.п.)
-   - Напишите краткие выводы в Markdown-ячейках под каждым графиком
+1. Прочитать данные из `data/` (исходный CSV или `*_cleaned.csv` если создан)
+2. Построить не менее 3 графиков; для каждого:
+   - сформулировать исследовательский вопрос
+   - явно указать, по какой выборке строится график и сколько записей (N)
+   - написать краткий вывод в Markdown-ячейке
+3. Сохранить графики как PNG-файлы
 
-**Инструменты:** Python (pandas, matplotlib/seaborn), Google Colab
+**Инструменты:** matplotlib, seaborn (основные), plotly / folium (дополнительно)
 
-**Платформа ИИ:** DeepSeek
+**Обязательно для сдачи задания 3:**  
+По завершении работы с DeepSeek нажмите **Share → Public link to thread**  
+и включите эту ссылку в форму сдачи. Без публичной ссылки работа не может быть проверена.
 
 ---
 
 **EN (short version):**
-1. **Part 1:** Build a CSV table from Wikidata using SPARQL queries.
-2. **Part 2:** Read and preprocess this CSV in Google Colab (from GitHub).
-3. **Part 3:** Analyze and visualize the data in Google Colab.
+1. **Part 1:** Build CSV files from Wikidata using SPARQL queries; save `.sparql` and `.csv` to `data/`.
+2. **Part 2:** Clone repo in Colab, read and analyze CSV with pandas (`week2b_read_csv.ipynb`).
+3. **Part 3:** Visualize data with matplotlib/seaborn (`week3_visualization.ipynb`); share DeepSeek thread link.
 
 ---
 
@@ -197,12 +238,13 @@ python-ai-Ivanov-Ivan/
 **Через Google Form** (ссылка будет выдана на занятии) вы отправите:
 
 1. Ссылку на ваш репозиторий GitHub (`python-ai-Фамилия-Имя`)
-2. Ссылки на диалоги с ИИ (Mistral, Qwen, DeepSeek)
-3. Ссылку на вашу таблицу промптов:
-   - Google Sheets: ссылка с доступом "Просмотр"
-   - ИЛИ укажите путь к файлу в репозитории: `prompts/prompts_2026_Фамилия_Имя.xlsx`
+2. Ссылки на диалоги с ИИ:
+   - Mistral (задание 1)
+   - Qwen (задание 2)
+   - DeepSeek (задание 3) — **публичная ссылка Share → Public link**
+3. Ссылку на вашу таблицу промптов Google Sheets (доступ «Просмотр»)
 
-EN: In the Google Form you will submit links to: your GitHub repo, your AI chats, and your prompts table.
+EN: Submit links to your GitHub repo, AI chat threads (Mistral, Qwen, DeepSeek public link), and your prompts table.
 
 ---
 
@@ -210,10 +252,10 @@ EN: In the Google Form you will submit links to: your GitHub repo, your AI chats
 
 Зачёт ставится при выполнении **всех трёх частей** задания:
 
-- ✅ **Часть 1:** В папке `data/` есть корректный CSV-файл (минимум 50 строк, 3 столбца), полученный из Wikidata
-- ✅ **Часть 2:** В ноутбуке `week2_data_analysis.ipynb` есть рабочий код чтения и базовой обработки вашего CSV
-- ✅ **Часть 3:** В ноутбуке `week3_visualization.ipynb` есть рабочий код анализа и визуализации + осмысленные выводы
-- ✅ **Таблица промптов:** Заполненная таблица (Google Sheets или .xlsx в репозитории) и ссылки на диалоги с ИИ
+- ✅ **Часть 1:** В папке `data/` есть `.sparql`-файл(ы) и соответствующий CSV из Wikidata; URI объекта сохранён в CSV
+- ✅ **Часть 2:** Ноутбук `week2b_read_csv.ipynb` запускается без ошибок (`Runtime → Run all`); столбец URL сохранён; Markdown-ячейки описывают ваши данные, а не данные шаблона
+- ✅ **Часть 3:** Ноутбук `week3_visualization.ipynb` содержит не менее 3 графиков с исследовательскими вопросами и выводами; публичная ссылка на беседу с DeepSeek приложена
+- ✅ **Таблица промптов:** Заполненная Google Sheets со всеми тремя заданиями
 
 **Никакого теста нет.** Единственное условие зачёта — выполненные три части задания.
 
@@ -222,7 +264,7 @@ EN: In the Google Form you will submit links to: your GitHub repo, your AI chats
 ## 🆘 Помощь
 
 - **Telegram-канал курса**: [t.me/PromptMagi](https://t.me/PromptMagi)
-- **Вопросы преподавателю**: @[componavt](https://t.me/componavt)
+- **Вопросы преподавателю**: [@componavt](https://t.me/componavt)
 - **Документация Python**: https://docs.python.org/3/
 - **Google Colab FAQ**: https://research.google.com/colaboratory/faq.html
 - **Wikidata Query Service**: https://query.wikidata.org/
@@ -235,7 +277,7 @@ EN: In the Google Form you will submit links to: your GitHub repo, your AI chats
 - [Pandas документация](https://pandas.pydata.org/docs/)
 - [Matplotlib галерея](https://matplotlib.org/stable/gallery/)
 - [Wikidata SPARQL примеры](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/queries/examples)
-- [Курс "Программирование Викиданных"](https://ru.wikiversity.org/?curid=23388)
+- [Курс «Программирование Викиданных»](https://ru.wikiversity.org/?curid=23388)
 
 ---
 
